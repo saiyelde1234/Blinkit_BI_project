@@ -1,4 +1,4 @@
-![Screenshot 2025-05-29 223721](https://github.com/user-attachments/assets/9ae47c99-bcea-4563-b263-3c92dd57ea94)🔍 1. Requirement Gathering / Business Understanding Engaged stakeholders (marketing, sales, supply chain) to understand expectations.
+🔍 1. Requirement Gathering / Business Understanding Engaged stakeholders (marketing, sales, supply chain) to understand expectations.
 
 Clarified key questions to answer through the dashboard:
 
@@ -142,4 +142,4 @@ Enabled Blinkit to make informed decisions around product planning, outlet expan
 
 By integrating all business-critical metrics in one interactive platform, this project not only meets the analytical needs of the business but also sets a foundation for continuous performance monitoring and strategic growth. Power BI’s flexibility ensures this dashboard can be expanded or adapted as business priorities evolve.
 
-
+![Screenshot 2025-05-29 223721](https://github.com/user-attachments/assets/9ae47c99-bcea-4563-b263-3c92dd57ea94)
